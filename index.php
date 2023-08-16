@@ -16,7 +16,7 @@
 <div class="container edit"  rel="page" field="content">
     <div class="wysiwyg element">
       <h2 class="text-center">
-        <strong>Skeleton</strong> is a template developed for exploring and playing with
+        <strong>Portfolio Skeleton</strong> is a template developed for exploring and playing with
         <a target="_blank" href="https://microweber.com">Microweber</a>
       </h2>
        <div class="well">
